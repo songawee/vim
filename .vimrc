@@ -1,6 +1,6 @@
 " Begin .vimrc
     
-syntax on 
+syntax off 
 filetype on
 set nu
 set shiftwidth=2
