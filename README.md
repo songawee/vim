@@ -11,5 +11,3 @@ hai
 foo
 bar
 
-testing
-foo baz
