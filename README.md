@@ -12,3 +12,4 @@ foo
 bar
 
 test
+hai
