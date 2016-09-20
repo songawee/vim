@@ -13,5 +13,3 @@ bar
 
 test
 
-
-yo oy yo
