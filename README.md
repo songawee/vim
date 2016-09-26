@@ -11,5 +11,3 @@ hai
 foo
 bar
 
-test
-
