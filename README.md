@@ -6,10 +6,5 @@ edit
 yo
 
 test
-hai
 
-foo
-bar
-
-test
 
