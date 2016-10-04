@@ -7,9 +7,5 @@ yo
 
 test
 hai
-
-foo
-bar
-
 test
 
